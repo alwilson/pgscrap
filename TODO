@@ -1,0 +1,6 @@
+TODO:
+	- remove symbol table hacks
+	- add scrub rate parameters
+	- look into low overhead reads (DMA async?)
+
+Please send patched to Alex Wilson <alex.david.wilson@gmail.com>
